@@ -1,0 +1,112 @@
+[
+    {
+        "date":"2020-06-12",
+        "city":"123",
+        "numberOfAdults":5,
+        "hotel":"Hilton",
+        "hotelRate":2,
+        "hotelFare":500.56,
+        "roomAmenities":"speed internet , fax , business center,printers",
+        "provider":"TH"
+    },
+    {
+        "date":"2020-06-12",
+        "city":"145",
+        "numberOfAdults":5,
+        "hotel":"Hilton",
+        "hotelRate":2,
+        "hotelFare":500.56,
+        "roomAmenities":"speed internet , fax , business center,printers",
+        "provider":"TH"
+    },
+    {
+        "date":"2020-05-14",
+        "city":"123",
+        "numberOfAdults":2,
+        "hotel":"Royal",
+        "hotelRate":5,
+        "hotelFare":600.15,
+        "roomAmenities":"speed internet , fax",
+        "provider":"TH"
+    },
+    {
+        "date":"2020-07-18",
+        "city":"145",
+        "numberOfAdults":4,
+        "hotel":"FourSeason",
+        "hotelRate":4,
+        "hotelFare":490.40,
+        "roomAmenities":"speed internet , fax , business center,printers",
+        "provider":"TH"
+    },
+    {
+        "date":"2020-05-07",
+        "city":"128",
+        "numberOfAdults":5,
+        "hotel":"Azure",
+        "hotelRate":2,
+        "hotelFare":500.56,
+        "roomAmenities":"fax , business center",
+        "provider":"TH"
+    },
+    {
+        "date":"2020-04-13",
+        "city":"123",
+        "numberOfAdults":3,
+        "hotel":"Namaa",
+        "hotelRate":2,
+        "hotelFare":300.50,
+        "roomAmenities":"",
+        "provider":"TH"
+    },
+    {
+        "date":"2020-06-20",
+        "city":"128",
+        "numberOfAdults":4,
+        "hotel":"Sahara",
+        "hotelRate":2,
+        "hotelFare":300.19,
+        "roomAmenities":"speed internet , fax , business center,printers",
+        "provider":"TH"
+    },
+    {
+        "date":"2020-05-07",
+        "city":"123",
+        "numberOfAdults":4,
+        "hotel":"ArabianNights",
+        "hotelRate":3,
+        "hotelFare":500.56,
+        "roomAmenities":"speed internet , fax , business center,printers",
+        "provider":"TH"
+    },
+    {
+        "date":"2020-05-07",
+        "city":"182",
+        "numberOfAdults":2,
+        "hotel":"Colombia",
+        "hotelRate":2,
+        "hotelFare":700.66,
+        "roomAmenities":"speed internet,fax",
+        "provider":"TH"
+    },
+    {
+        "date":"2020-05-04",
+        "city":"123",
+        "numberOfAdults":3,
+        "hotel":"GreatPyramid",
+        "hotelRate":4,
+        "hotelFare":499.56,
+        "roomAmenities":"public meetings",
+        "provider":"TH"
+    },
+    {
+        "date":"2020-05-07",
+        "city":"145",
+        "numberOfAdults":5,
+        "hotel":"AliPasha",
+        "hotelRate":3,
+        "hotelFare":450.20,
+        "roomAmenities":"business center,printers",
+        "provider":"TH"
+    }
+]
